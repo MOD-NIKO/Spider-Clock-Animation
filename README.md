@@ -12,9 +12,7 @@ Spider Clock Animation is a creative web project that uses SVG graphics and the 
 
 ## 🖼️ Demo / Preview
 
-You can see it live by opening `index.html` (or `MOD NIKO.html`, depending on your file naming) in your web browser.  
-
-*(You can also deploy it via GitHub Pages or any static hosting service to share it online.)*
+https://mod-niko.github.io/Spider-Clock-Animation/
 
 ---
 
